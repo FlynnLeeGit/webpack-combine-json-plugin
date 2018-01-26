@@ -23,7 +23,7 @@ const WebpackCombineJsonPlugin = require('webpack-combine-json-plugin')
         '.js.manifest.json', // relative path from dist path
         '.style.manifest.json',
       ],
-      verbose: ture // default true
+      verbose: true // default true
     })
   ]
 }
