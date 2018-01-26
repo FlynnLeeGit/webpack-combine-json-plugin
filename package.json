@@ -1,0 +1,28 @@
+{
+  "name": "webpack-combine-json-plugin",
+  "version": "0.0.1",
+  "description": "combine json after all assets emited",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlynnLeeGit/webpack-combine-json-plugin.git"
+  },
+  "keywords": [
+    "combine",
+    "json",
+    "webpack",
+    "manifest"
+  ],
+  "author": "flynnlee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FlynnLeeGit/webpack-combine-json-plugin/issues"
+  },
+  "homepage": "https://github.com/FlynnLeeGit/webpack-combine-json-plugin#readme",
+  "dependencies": {
+    "fs-extra": "^5.0.0"
+  }
+}
